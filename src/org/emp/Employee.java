@@ -36,6 +36,8 @@ public class Employee {
 		
 		li.set(0, 2000);
 		System.out.println(li);
+		System.out.println("QA Work");
+		System.out.println("Work done by Ram");
 	}
 	
 	
