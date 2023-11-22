@@ -38,7 +38,12 @@ public class Employee {
 		System.out.println(li);
 		System.out.println("Development Work");
 		System.out.println("Work carried out by Ravi");
+		System.out.println("QA Work");
+		System.out.println("Work done by Ram");
+
 		
+		
+
 	}
 	
 	
